@@ -62,7 +62,7 @@ The project combines a **FastAPI backend** with a clean, responsive frontend to 
 
 ## 🧠 How It Works
 
-```text
+
 User
   │
   ▼
@@ -101,6 +101,7 @@ User
 │ Body                  │
 │ Closing               │
 └───────────────────────┘
+
 🛠️ Tech Stack
 Backend
 Python
@@ -116,6 +117,7 @@ JavaScript
 AI
 Groq API
 openai/gpt-oss-20b
+
 📁 Project Structure
 AI-Email-Generator/
 │
@@ -136,6 +138,7 @@ AI-Email-Generator/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
+
 🚀 Getting Started
 1. Clone the Repository
 git clone https://github.com/haniaeman2026-pixel/AI-Email-Generator.git
@@ -229,6 +232,7 @@ The .gitignore file prevents sensitive files such as .env from being committed t
 venv/
 __pycache__/
 *.pyc
+
 🌱 Future Improvements
 
 Possible future enhancements include:
